@@ -1,6 +1,6 @@
 this is the sample file showing git commands
 
-git config -global user.name "name"
+git config --global user.name "name"
 git config --global user.email "abc@gmail.com"
-git add "Filename"
+git add Filename
 git commit -n "message" filename
